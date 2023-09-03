@@ -1,0 +1,19 @@
+# Site settings
+name: 郝子明
+location: 石家庄
+company: 石家庄铁道大学
+position: 软件设计师
+github: https://github.com/DodocoAnd
+facebook: https://www.facebook.com/
+phone: 1983193XXXX
+email: 944388484@qq.com
+
+baseurl: ""
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
